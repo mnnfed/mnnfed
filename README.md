@@ -1,16 +1,39 @@
-## Hi there 👋
+# Привет, я Федор! 👋
 
-<!--
-**mnnfed/mnnfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий **Java-разработчик** из Беларуси. В данный момент я студент факультета информационных технологий БГТУ в Минске, где активно погружаюсь в мир программирования и инженерии. 🚀
 
-Here are some ideas to get you started:
+### 👨‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я — начинающий Java-разработчик. Ориентирован на профессиональное развитие в сфере backend-разработки.
+
+- **Образование:** Студент факультета информационных технологий Белорусского государственного технологического университета.
+- **Специализация:** Разработка серверной логики, проектирование REST API, работа с реляционными базами данных и микросервисной архитектурой.
+- **Подход к разработке:** Уделяю особое внимание качеству кода, применению принципов ООП/SOLID.
+- **Профессиональное развитие:** Регулярно совершенствую навыки написания кода, внедряю в свои проекты современные инструменты инфраструктуры (Docker) и прохожу профильные ассессменты для оценки компетенций.
+- **Цель:** Присоединиться к сильной инженерной команде в роли Junior Java Developer, чтобы решать реальные бизнес-задачи, приносить пользу проекту и перенимать опыт коллег.
+
+### 💻 Мой стек технологий
+
+* **Языки:** Java.
+* **Фреймворки:** Spring Boot, Spring Core, Spring Web (создание RESTful API), Spring Data JPA.
+* **Базы данных:** PostgreSQL / MySQL, основы SQL, JDBC, Hibernate.
+* **Сборка и тестирование:** Maven / Gradle, JUnit, основы Mockito.
+* **Инфраструктура и инструменты:** Git, GitHub / GitLab, Docker.
+* **API и Сеть:** REST, HTTP, JSON, работа с Postman.
+* **Среды разработки:** IntelliJ IDEA / OpenIDE Pro.
+
+### 📈 Моя GitHub статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mnnfed&show_icons=true&theme=radium&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnnfed&theme=radium" alt="GitHub Streak" />
+</p> 
+
+
+### 📫 Как со мной связаться
+
+- **Telegram:** [@mnnfed](https://t.me/mnnfed)
+- **Email:** fedorwork788@gmail.com
+
+---
+⭐️ *Буду рад контрибьютить в интересные проекты и открыт к стажировкам!*
