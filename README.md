@@ -25,15 +25,21 @@
 ### 📈 Моя GitHub статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnnfed&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnnfed&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=mnnfed&label=Просмотры+профиля&color=0D1117&style=for-the-badge" alt="Просмотры профиля" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnnfed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/mnnfed?tab=followers">
+    <img src="https://img.shields.io/github/followers/mnnfed?label=Подписчики&style=for-the-badge&color=2ea44f&logo=github" alt="Подписчики" />
+  </a>
+  <a href="https://github.com/mnnfed?tab=repositories">
+    <img src="https://img.shields.io/github/repos/mnnfed?label=Репозитории&style=for-the-badge&color=0366d6&logo=github" alt="Репозитории" />
+  </a>
+  <a href="https://github.com/mnnfed">
+    <img src="https://img.shields.io/github/stars/mnnfed?label=Звезды&style=for-the-badge&color=f1e05a&logo=github" alt="Звезды" />
+  </a>
 </div>
 
 ### 📫 Как со мной связаться
