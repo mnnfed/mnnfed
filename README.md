@@ -25,15 +25,7 @@
 ### 📈 Моя GitHub статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnnfed&show_icons=false&theme=tokyonight&hide_border=true" height="195"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnnfed&theme=tokyonight&hide_border=true" height="195"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnnfed&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mnnfed&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
 
 ### 📫 Как со мной связаться
